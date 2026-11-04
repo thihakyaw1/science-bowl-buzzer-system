@@ -1,6 +1,6 @@
 Science Bowl Buzzer System! - Thiha Kyaw, Venice High School Class of 2027
 
-Install Python 3.11 or newer. Download and extract this repository, then open a terminal in the folder containing `run_app.py`.
+Install Python 3.11 or newer. Download and extract this repository, then open a terminal in the extracted repository folder containing `run_app.py`.
 
 Run:
 
