@@ -1,0 +1,5 @@
+{
+  "credentials_json": "config/google_service_account.json",
+  "folder_id": "PASTE_GOOGLE_DRIVE_FOLDER_ID_HERE",
+  "spreadsheet_prefix": "Science Bowl Match"
+}
