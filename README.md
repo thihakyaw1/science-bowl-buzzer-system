@@ -5,9 +5,9 @@ Install Python 3.11 or newer. Download and extract this repository, then open a 
 Run:
 
 ```bash
+cd "Science Bowl Buzzer Project"
 python run_app.py
 ```
-
 Open http://127.0.0.1:8080 in your browser.
 
 And that's it! Have fun!
